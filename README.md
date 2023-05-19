@@ -18,7 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="#demo">Demo</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#key-technologies">Key Technologies</a> •
   <a href="#setup">Setup</a> •
@@ -29,12 +28,6 @@
 ---
 
 ![Homepage Screenshot](public/screenshots/home.png?raw=true "Homepage Screenshot")
-
----
-
-## Demo
-
-Here is a working live demo [here](https://linkedin-clone-martstech.vercel.app)
 
 ---
 
